@@ -23,7 +23,6 @@
 
 2. Git clone 후에 터미널에
 <pre><code>cordova prepare</code></pre> 
-
 >입력하면 어플리케이션 불러와집니다.
 
 
